@@ -3,11 +3,11 @@
 <h3 align="center">A passionate developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on [Social Media App](https://github.com/MoeenH/social-media-app-using-FastApi)
+- 🔭 Currently working on [Social Media App](https://github.com/MoeenH/social-media-app-using-FastApi)
 
-- 🌱 I’m currently learning **Machine Learning, Python Backend Development, Operating System**
+- 🌱 Currently learning **Machine Learning, Python Backend Development, Operating System**
 
-- 📫 How to reach me **moeenhaider17@gmail.com**
+- 📫 Reach me at **moeenhaider17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
