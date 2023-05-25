@@ -1,6 +1,6 @@
-[![MasterHead](https://blog.talent500.co/wp-content/uploads/2022/05/PythonToolKit_Banner-1200x500.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Moeen Haider</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+
+<h1 align="center">Hi, I'm Moeen</h1>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🔭 Currently working on [Social Media App](https://github.com/MoeenH/social-media-app-using-FastApi)
