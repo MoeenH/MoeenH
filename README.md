@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 Currently working on [Social Media App](https://github.com/MoeenH/social-media-app-using-FastApi)
+- 🔭 Currently working on [Database Security Dashboard](https://github.com/MoeenH/database-dashboard-security)
 
-- 🌱 Currently learning **Machine Learning, Python Backend Development, Operating System**
+- 🌱 Currently learning **Pentesting, Python Development, Operating System**
 
 - 📫 Reach me at **moeenhaider17@gmail.com**
 
