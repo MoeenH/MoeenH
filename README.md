@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Moeen</h1>
-![tryhackme stats](https://raw.githubusercontent.com/MoeenH/MoeenH/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/moeenhaider17.png" alt="TryHackMe">
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
